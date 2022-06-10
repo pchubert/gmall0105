@@ -25,7 +25,7 @@
         <fastjson.version>1.2.62</fastjson.version>
         <!-- 注意此处不是直接使用阿里的 dubbo -->
         <dubbo-starter.version>1.0.10</dubbo-starter.version>
-        <dubbo.version>2.6.0</dubbo.version>
+        <dubbo.version>2.6.12</dubbo.version>
 <!--        <dubbo-starter.version>2.7.5</dubbo-starter.version>-->
 <!--        <dubbo.version>2.7.5</dubbo.version>-->
         <zkclient.version>0.11</zkclient.version>
